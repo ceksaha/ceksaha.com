@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "Politics & Government",
+    "slug": "politics",
+    "color": "text-primary",
+    "pillClass": "category-politics",
+    "gradient": "bg-gradient-to-r from-primary to-accent",
+    "icon": "🏛️",
+    "createdAt": "2026-05-20T03:00:00.000Z",
+    "updatedAt": "2026-05-20T03:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Business & Economy",
+    "slug": "business",
+    "color": "text-green-700",
+    "pillClass": "category-business",
+    "gradient": "bg-green-700",
+    "icon": "📈",
+    "createdAt": "2026-05-20T03:00:00.000Z",
+    "updatedAt": "2026-05-20T03:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Technology & Science",
+    "slug": "technology",
+    "color": "text-blue-700",
+    "pillClass": "category-technology",
+    "gradient": "bg-blue-700",
+    "icon": "🔬",
+    "createdAt": "2026-05-20T03:00:00.000Z",
+    "updatedAt": "2026-05-20T03:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Lifestyle & Culture",
+    "slug": "lifestyle",
+    "color": "text-purple-700",
+    "pillClass": "category-lifestyle",
+    "gradient": "bg-purple-700",
+    "icon": "🎨",
+    "createdAt": "2026-05-20T03:00:00.000Z",
+    "updatedAt": "2026-05-20T03:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Sports",
+    "slug": "sports",
+    "color": "text-accent",
+    "pillClass": "category-sports",
+    "gradient": "bg-accent",
+    "icon": "⚽",
+    "createdAt": "2026-05-20T03:00:00.000Z",
+    "updatedAt": "2026-05-20T03:00:00.000Z"
+  },
+  {
+    "id": "1779249067512",
+    "name": "Tips dan Trik ",
+    "slug": "trik-dan-tips",
+    "color": "text-accent",
+    "pillClass": "category-technology",
+    "gradient": "bg-blue-700 text-white",
+    "icon": "📁",
+    "createdAt": "2026-05-20T03:51:07.514Z",
+    "updatedAt": "2026-05-21T02:09:52.063Z"
+  }
+]

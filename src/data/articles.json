@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1779181614354",
+    "title": "Eksklusif: Temuan Faktual Pertama CekSaha tentang AI",
+    "content": "Ceksaha.com - Ini adalah artikel hasil klarifikasi fakta yang dibuat melalui sistem CRUD. Kami memverifikasi bahwa sistem Next.js 15 berjalan lancar dengan integrasi dark mode premium dan sistem file upload lokal. ok lanjutkan",
+    "imageUrl": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485",
+    "createdAt": "2026-05-19T09:06:54.361Z",
+    "updatedAt": "2026-05-19T09:47:15.851Z",
+    "category": "Klarifikasi",
+    "categoryColor": "category-politics bg-gradient-to-r from-red-500 to-accent"
+  },
+  {
+    "id": "1",
+    "title": "Senate Passes Landmark AI Governance Bill After Months of Bipartisan Negotiation",
+    "content": "Ceksaha.com - WASHINGTON — The United States Senate passed the Artificial Intelligence Accountability and Safety Act on Thursday in a rare 72-28 bipartisan vote, sending the most comprehensive AI regulation package in American history to the President's desk for signature.\n\nThe legislation, which took 14 months to negotiate through a joint Senate-House conference committee, establishes the Federal AI Safety Board, a new independent agency charged with reviewing high-risk AI deployments in sectors including energy, transportation, financial services, and healthcare.\n\nSenate Majority Leader Andrea Mitchell called the vote \"a historic moment for American technology leadership,\" adding that the framework balances innovation incentives with necessary safeguards. \"We are not here to stop progress. We are here to ensure progress doesn't stop us,\" she said from the Senate floor before the final vote.\n\nThe bill's key provisions include mandatory pre-deployment safety assessments for AI systems capable of autonomous decision-making, a national registry for large language models with more than 10 billion parameters, and a whistleblower protection framework for AI safety researchers.",
+    "imageUrl": "https://images.unsplash.com/photo-1673725641916-5b3625cfb335",
+    "category": "Politics",
+    "categoryColor": "category-politics bg-gradient-to-r from-red-500 to-accent",
+    "createdAt": "2026-05-17T17:00:00.000Z",
+    "updatedAt": "2026-05-20T05:28:41.935Z"
+  },
+  {
+    "id": "2",
+    "title": "Federal Reserve Holds Rates Steady, Signals Two Cuts Possible Before Year End",
+    "content": "Ceksaha.com - Chair Jerome Powell cited cooling inflation data and a resilient labor market as key factors in the unanimous decision by the Federal Reserve to hold interest rates steady.",
+    "imageUrl": "https://img.rocket.new/generatedImages/rocket_gen_img_115f480d4-1773360011752.png",
+    "category": "Business",
+    "categoryColor": "category-politics bg-gradient-to-r from-red-500 to-accent",
+    "createdAt": "2026-05-17T17:00:00.000Z",
+    "updatedAt": "2026-05-20T06:12:32.927Z"
+  },
+  {
+    "id": "3",
+    "title": "NVIDIA Unveils Blackwell Ultra Architecture, Claims 10x Inference Speed Over Previous Gen",
+    "content": "Ceksaha.com - NVIDIA announced the Blackwell Ultra GPU architecture, claiming a massive 10x inference performance boost for large-scale AI models. The announcement sent chipmaker shares surging 8% in after-hours trading as AI data center demand continues to accelerate globally.",
+    "imageUrl": "https://images.unsplash.com/photo-1697071327741-04319e5d54d3",
+    "category": "Technology",
+    "categoryColor": "category-politics bg-gradient-to-r from-red-500 to-accent",
+    "createdAt": "2026-05-16T17:00:00.000Z",
+    "updatedAt": "2026-05-20T05:30:23.868Z"
+  },
+  {
+    "id": "4",
+    "title": "NBA Finals: Boston Celtics Claim Third Consecutive Championship in Game 7 Thriller",
+    "content": "Ceksaha.com - Jayson Tatum's triple-double performance sealed a historic dynasty as the Celtics edged the Thunder 98-94 in a heart-stopping Game 7 finale to claim their third consecutive championship.",
+    "imageUrl": "https://images.unsplash.com/photo-1576250223658-05e6e593d8ce",
+    "category": "Sports",
+    "categoryColor": "category-sports bg-accent",
+    "createdAt": "2026-05-16T17:00:00.000Z",
+    "updatedAt": "2026-05-20T05:30:40.421Z"
+  },
+  {
+    "id": "5",
+    "title": "Mediterranean Diet Linked to 23% Reduction in Cardiovascular Events, Study Finds",
+    "content": "Ceksaha.com - A 12-year longitudinal study tracking 40,000 participants across six countries reveals significant protective benefits of plant-forward eating, linking the Mediterranean Diet to a 23% reduction in cardiovascular events.",
+    "imageUrl": "https://img.rocket.new/generatedImages/rocket_gen_img_1f4dc45d4-1772081333213.png",
+    "category": "Lifestyle",
+    "categoryColor": "category-politics bg-gradient-to-r from-red-500 to-accent",
+    "createdAt": "2026-05-16T17:00:00.000Z",
+    "updatedAt": "2026-05-20T05:30:53.127Z"
+  },
+  {
+    "id": "6",
+    "title": "IMF Revises Global Growth Forecast Upward to 3.4% Amid Easing Trade Tensions",
+    "content": "Ceksaha.com - The revised IMF outlook reflects improved manufacturing activity in Asia-Pacific and a stronger-than-expected rebound in European consumer spending, pushing global growth forecasts up to 3.4%.",
+    "imageUrl": "https://img.rocket.new/generatedImages/rocket_gen_img_1ebb8d918-1766751948962.png",
+    "category": "Business",
+    "categoryColor": "category-politics bg-gradient-to-r from-red-500 to-accent",
+    "createdAt": "2026-05-15T17:00:00.000Z",
+    "updatedAt": "2026-05-20T05:31:11.148Z"
+  },
+  {
+    "id": "s1",
+    "title": "Novak Djokovic Wins Record 25th Grand Slam Title at French Open",
+    "content": "Ceksaha.com - The legendary Novak Djokovic outlasted Carlos Alcaraz in a five-set epic French Open final to claim his historic 25th Grand Slam title, solidifying his standing as the greatest ever.",
+    "imageUrl": "https://img.rocket.new/generatedImages/rocket_gen_img_14746d329-1778687003530.png",
+    "category": "Sports",
+    "categoryColor": "category-sports bg-accent",
+    "createdAt": "2026-05-17T17:00:00.000Z",
+    "updatedAt": "2026-05-20T05:31:27.177Z"
+  }
+]
