@@ -57,9 +57,10 @@ export default function CategoryGrid({ articles }: CategoryGridProps) {
                 fill
                 sizes="(max-width: 768px) 100vw, 45vw"
                 className="object-cover transition-transform duration-700 group-hover:scale-105"
+                style={{ objectFit: 'cover' }}
                 priority
               />
-              <div className="absolute inset-0 bg-gradient-to-r from-transparent to-black/20"></div>
+              <div className="absolute inset-0 bg-gradient-to-r from-transparent to-black/20 pointer-events-none"></div>
             </div>
             <div className="flex flex-col flex-1 p-5 md:p-6 justify-between">
               <div>
@@ -102,8 +103,9 @@ export default function CategoryGrid({ articles }: CategoryGridProps) {
                   fill
                   sizes="(max-width: 640px) 100vw, 50vw"
                   className="object-cover transition-transform duration-500 group-hover:scale-105"
+                  style={{ objectFit: 'cover' }}
                 />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
+                <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent pointer-events-none"></div>
                 <div className="absolute top-3 left-3 flex flex-wrap gap-2">
                   <span className={`category-pill ${article.categoryColor}`}>
                     {article.category}
